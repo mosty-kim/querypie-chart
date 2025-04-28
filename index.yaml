@@ -3,9 +3,9 @@ entries:
   querypie:
   - apiVersion: v2
     appVersion: 10.2.2
-    created: "2025-04-28T11:26:47.457262+09:00"
+    created: "2025-04-28T13:10:39.606598+09:00"
     description: A Helm chart for QueryPie
-    digest: 0827ee776861b489833b6b655bff173db8c1fb3001e5c4e8cd640f38bb28cdda
+    digest: 6a7224571be0cd450af0dc3a698a145b2704dd802522fd033f057adff9b82beb
     home: https://www.querypie.com/
     kubeVersion: ^1.25.0-0
     name: querypie
@@ -13,4 +13,4 @@ entries:
     urls:
     - querypie-1.3.7.tgz
     version: 1.3.7
-generated: "2025-04-28T11:26:47.455053+09:00"
+generated: "2025-04-28T13:10:39.604651+09:00"
